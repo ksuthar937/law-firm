@@ -18,9 +18,9 @@ function HeroSection() {
           <button>Let's Talk</button>
         </div>
       </div>
-      <div>
-        <img src={heroImage} alt="heroImage" />
-      </div>
+      {/* <div> */}
+      <img className={styles.heroImage} src={heroImage} alt="heroImage" />
+      {/* </div> */}
     </div>
   );
 }
