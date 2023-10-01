@@ -4,7 +4,7 @@ function Practices() {
   return (
     <div className={styles.wrapper}>
       <h1 className={styles.heading}>Area of Practices</h1>
-      <div className={styles.gridContainer}>
+      <div className={styles.flexContainer}>
         <h3 className={styles.item1}>BUSINESS LAW</h3>
         <h3 className={styles.item2}>PARTNERSHIP LAW</h3>
         <h3 className={styles.item3}>REAL ESTATE LAW</h3>

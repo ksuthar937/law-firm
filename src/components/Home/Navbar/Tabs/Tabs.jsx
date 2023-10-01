@@ -7,6 +7,7 @@ function Tabs() {
       <p>Attorneys</p>
       <p>Practice Areas</p>
       <p>About Us</p>
+      {/* <a href="#aboutUs">About Us</a> */}
     </div>
   );
 }

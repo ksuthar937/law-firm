@@ -57,6 +57,8 @@
   font-weight: 600;
   margin-right: 5px;
   border: none;
+  color: var(--color-white);
+  font-weight: 400;
 }
 
 .emailIcon {

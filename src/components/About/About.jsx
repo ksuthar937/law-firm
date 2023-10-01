@@ -3,7 +3,7 @@ import Card from "./Card/Card";
 
 function About() {
   return (
-    <div className={styles.wrapper}>
+    <div className={styles.wrapper} id="aboutUs">
       <div className={styles.intorWrapper}>
         <div className={styles.intortitle}>
           <h1>Let's Introduce</h1>
